@@ -4,6 +4,8 @@
 A modern personal portfolio website built with React.js, Tailwind CSS, and TypeScript.
 This portfolio showcases my projects, skills, and experiences in a visually appealing and responsive design.
 
+Portfolio: Live Website
+
 🚀 Features
 
 ⚡ Fast and Responsive – Optimized for all screen sizes
@@ -79,12 +81,4 @@ GitHub Pages → With gh-pages
 
 If you'd like to contribute or suggest improvements, feel free to fork this repo and submit a pull request.
 
-📬 Contact
-
 👤 Arman Khan
-
-LinkedIn: Your LinkedIn
-
-GitHub: Your GitHub
-
-Portfolio: Live Website
