@@ -1,5 +1,5 @@
 # Arman-s-Portfolio-main
-🌐 Arman Portfolio
+🌐Portfolio Website
 
 A modern personal portfolio website built with React.js, Tailwind CSS, and TypeScript.
 This portfolio showcases my projects, skills, and experiences in a visually appealing and responsive design.
@@ -71,11 +71,13 @@ Netlify → Connect repo & auto-deploy
 
 GitHub Pages → With gh-pages
 
-📸 Screenshots
+## 📸 Screenshots
 
-##Home Page
+### Home Page
 
 ![Home page](assets/home.png)
+
+
 
 🤝 Contributing
 
