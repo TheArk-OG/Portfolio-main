@@ -9,7 +9,7 @@ const Contact = () => {
 
   const sendEmail = (e) => {
     e.preventDefault();
-
+    
     emailjs
       .sendForm(
         "service_lzz77hq",  // Replace with your EmailJS Service ID
