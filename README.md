@@ -71,7 +71,9 @@ GitHub Pages → With gh-pages
 
 📸 Screenshots
 
-Add screenshots of your portfolio here (Home, About, Projects, Contact pages).
+##Home Page
+
+![Home page](assets/home.png)
 
 🤝 Contributing
 
