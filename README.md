@@ -1,72 +1,67 @@
-# Arman-s-Portfolio-main
+# Arman-Portfolio-main
 
-##🌐Portfolio Website
+## 🌐 Portfolio Website
 
-A modern personal portfolio website built with React.js, Tailwind CSS, and TypeScript.
+A modern personal portfolio website built with **React.js**, **Tailwind CSS**, and **TypeScript**.  
 This portfolio showcases my projects, skills, and experiences in a visually appealing and responsive design.
 
-Portfolio: https://portfolio-main-one-ruddy.vercel.app/
+🌍 **Live Demo:** [Portfolio Website](https://portfolio-main-one-ruddy.vercel.app/)
 
-🚀 Features
+---
 
-⚡ Fast and Responsive – Optimized for all screen sizes
+## 🚀 Features
 
-🎨 Modern UI/UX – Styled with Tailwind CSS
+- ⚡ **Fast and Responsive** – Optimized for all screen sizes  
+- 🎨 **Modern UI/UX** – Styled with Tailwind CSS  
+- 🔄 **Reusable Components** – Modular React components  
+- 📂 **Projects Showcase** – Highlighted portfolio projects  
+- 🌙 **Theme Support** – Light and dark mode ready (if configured)  
+- 🔗 **Social Links** – Connects to GitHub, LinkedIn, etc.  
 
-🔄 Reusable Components – Modular React components
+---
 
-📂 Projects Showcase – Highlighted portfolio projects
+## 🛠️ Tech Stack
 
-🌙 Theme Support – Light and dark mode ready (if configured)
+- **Frontend:** React.js, TypeScript  
+- **Styling:** Tailwind CSS  
+- **Build Tool:** Vite / Create React App (depending on setup)  
+- **Deployment:** Vercel / Netlify / GitHub Pages  
 
-🔗 Social Links – Connects to GitHub, LinkedIn, etc.
+---
 
-🛠️ Tech Stack
-
-Frontend: React.js, TypeScript
-
-Styling: Tailwind CSS
-
-Build Tool: Vite / Create React App (depending on setup)
-
-Deployment: Vercel / Netlify / GitHub Pages
-
-📦 Installation & Setup
+## 📦 Installation & Setup
 
 Clone the repo and install dependencies:
 
+```bash
 git clone https://github.com/yourusername/Arman-Portfolio.git
 cd Arman-Portfolio-main
 npm install
+```
 
+## Run the development server
 
-Run the development server:
-
+```bash
 npm run dev
+```
 
+## 📁 Project Structure
 
-Build for production:
-
-npm run build
-
-'''bash
-📁 Project Structure
+```bash
 Arman-Portfolio-main/
-│── public/           # Static assets
-│── src/              # Main source code
-│   ├── assets/       # Images, icons, etc.
-│   ├── components/   # Reusable UI components
-│   ├── pages/        # Page components
-│   ├── App.tsx       # Root component
-│   └── main.tsx      # Entry point
-│── package.json      # Project metadata and dependencies
-│── tailwind.config.js# Tailwind CSS config
-│── tsconfig.json     # TypeScript config
+│── public/            # Static assets
+│── src/               # Main source code
+│   ├── assets/        # Images, icons, etc.
+│   ├── components/    # Reusable UI components
+│   ├── pages/         # Page components
+│   ├── App.tsx        # Root component
+│   └── main.tsx       # Entry point
+│── package.json       # Project metadata and dependencies
+│── tailwind.config.js # Tailwind CSS config
+│── tsconfig.json      # TypeScript config
+```
 
-'''
-
-
-🌍 Deployment
+## 🌍 Deployment
 
 You can deploy this portfolio easily using:
 
@@ -78,14 +73,15 @@ GitHub Pages → With gh-pages
 
 ## 📸 Screenshots
 
-### Home Page
+Home Page
 
-![Home page](assets/home.png)
-
-
+![Home Page of portfolio](src/assets/home.png)
 
 🤝 Contributing
 
 If you'd like to contribute or suggest improvements, feel free to fork this repo and submit a pull request.
 
-👤 Arman Khan
+
+👤 Author
+
+Arman Khan
