@@ -1,10 +1,11 @@
 # Arman-s-Portfolio-main
-🌐Portfolio Website
+
+##🌐Portfolio Website
 
 A modern personal portfolio website built with React.js, Tailwind CSS, and TypeScript.
 This portfolio showcases my projects, skills, and experiences in a visually appealing and responsive design.
 
-Portfolio: Live Website
+Portfolio: https://portfolio-main-one-ruddy.vercel.app/
 
 🚀 Features
 
@@ -48,6 +49,7 @@ Build for production:
 
 npm run build
 
+'''bash
 📁 Project Structure
 Arman-Portfolio-main/
 │── public/           # Static assets
@@ -60,6 +62,9 @@ Arman-Portfolio-main/
 │── package.json      # Project metadata and dependencies
 │── tailwind.config.js# Tailwind CSS config
 │── tsconfig.json     # TypeScript config
+
+'''
+
 
 🌍 Deployment
 
