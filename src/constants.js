@@ -90,7 +90,7 @@ export const SkillsInfo = [
       img: CU,
       school: "Chandigarh University",
       date: "Aug 2022 - June 2026",
-      grade: "7.00 CGPA",
+      grade: "7.12 CGPA",
       desc: "I am pursuing my Bachelor of Technology (B.Tech) in Computer Science and Engineering from Chandigarh University. Throughout my academic journey, I have built a strong foundation in programming, software development, and computer science principles. I have studied core subjects such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Computer Networks, and Software Engineering. Alongside academics, I have worked on several projects in web development and software applications, which helped me strengthen my practical skills. I have also participated in technical workshops and events that enhanced my problem-solving abilities and teamwork. My experience in this program has been pivotal in shaping both my technical expertise and professional growth.",
       degree: "Bachelors in Computer Science and Engineering, BE-CSE",
     },
