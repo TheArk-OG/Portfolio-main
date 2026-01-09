@@ -108,7 +108,7 @@ export const SkillsInfo = [
       img: dav,
       school: "DAV Public School, Munger",
       date: "Apr 2018 - March 2019",
-      grade: "68.6",
+      grade: "69.6",
       desc: "I completed my class 10 education from DAV Public School, Munger, under the CBSE board, where I studied Science but also learned the lesson of discipline and friendship.",
       degree: "CBSE(X)",
     },
